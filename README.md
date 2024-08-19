@@ -9,6 +9,9 @@ Welcome to the **Tic Tac Toe Online** app! This is a modern take on the classic 
 - **Advanced Architecture:** Built with Android’s latest architecture components like LiveData and ViewModel to ensure a smooth and responsive experience.
 - **Firebase Firestore Integration:** The app leverages Firebase Firestore for real-time data synchronization, ensuring your moves are instantly reflected in your opponent's game.
 
+## Live App Link:
+   `https://play.google.com/store/apps/details?id=com.sayan.tictactoeonline`
+
 ## Technology Stack
 
 - **Kotlin:** The primary programming language for Android development.
